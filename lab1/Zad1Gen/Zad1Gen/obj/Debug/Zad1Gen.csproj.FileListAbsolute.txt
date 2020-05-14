@@ -1,0 +1,7 @@
+C:\Users\Piservis\source\repos\Zad1Gen\Zad1Gen\bin\Debug\Zad1Gen.exe.config
+C:\Users\Piservis\source\repos\Zad1Gen\Zad1Gen\bin\Debug\Zad1Gen.exe
+C:\Users\Piservis\source\repos\Zad1Gen\Zad1Gen\bin\Debug\Zad1Gen.pdb
+C:\Users\Piservis\source\repos\Zad1Gen\Zad1Gen\obj\Debug\Zad1Gen.csprojAssemblyReference.cache
+C:\Users\Piservis\source\repos\Zad1Gen\Zad1Gen\obj\Debug\Zad1Gen.csproj.CoreCompileInputs.cache
+C:\Users\Piservis\source\repos\Zad1Gen\Zad1Gen\obj\Debug\Zad1Gen.exe
+C:\Users\Piservis\source\repos\Zad1Gen\Zad1Gen\obj\Debug\Zad1Gen.pdb
