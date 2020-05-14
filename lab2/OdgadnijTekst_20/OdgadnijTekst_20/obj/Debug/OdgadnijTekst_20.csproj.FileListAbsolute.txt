@@ -5,3 +5,10 @@ C:\Users\Piservis\source\repos\OdgadnijTekst_20\OdgadnijTekst_20\obj\Debug\Odgad
 C:\Users\Piservis\source\repos\OdgadnijTekst_20\OdgadnijTekst_20\obj\Debug\OdgadnijTekst_20.csproj.CoreCompileInputs.cache
 C:\Users\Piservis\source\repos\OdgadnijTekst_20\OdgadnijTekst_20\obj\Debug\OdgadnijTekst_20.exe
 C:\Users\Piservis\source\repos\OdgadnijTekst_20\OdgadnijTekst_20\obj\Debug\OdgadnijTekst_20.pdb
+C:\Users\Piservis\Desktop\amw\algorytmy-genetyczne-tryner-152icm\lab2\OdgadnijTekst_20\OdgadnijTekst_20\bin\Debug\OdgadnijTekst_20.exe.config
+C:\Users\Piservis\Desktop\amw\algorytmy-genetyczne-tryner-152icm\lab2\OdgadnijTekst_20\OdgadnijTekst_20\bin\Debug\OdgadnijTekst_20.exe
+C:\Users\Piservis\Desktop\amw\algorytmy-genetyczne-tryner-152icm\lab2\OdgadnijTekst_20\OdgadnijTekst_20\bin\Debug\OdgadnijTekst_20.pdb
+C:\Users\Piservis\Desktop\amw\algorytmy-genetyczne-tryner-152icm\lab2\OdgadnijTekst_20\OdgadnijTekst_20\obj\Debug\OdgadnijTekst_20.csprojAssemblyReference.cache
+C:\Users\Piservis\Desktop\amw\algorytmy-genetyczne-tryner-152icm\lab2\OdgadnijTekst_20\OdgadnijTekst_20\obj\Debug\OdgadnijTekst_20.csproj.CoreCompileInputs.cache
+C:\Users\Piservis\Desktop\amw\algorytmy-genetyczne-tryner-152icm\lab2\OdgadnijTekst_20\OdgadnijTekst_20\obj\Debug\OdgadnijTekst_20.exe
+C:\Users\Piservis\Desktop\amw\algorytmy-genetyczne-tryner-152icm\lab2\OdgadnijTekst_20\OdgadnijTekst_20\obj\Debug\OdgadnijTekst_20.pdb
